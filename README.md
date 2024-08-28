@@ -14,6 +14,7 @@
 - Active in sports representing High School (Football and Takraw).
 - Actively representing school for Gamelan for National Performance.
 - Part of Graphics team tasked to produce annual school magazine.
+  
 ---
 ### Work Experience
 **Data Analyst @ TheLorry Online Sdn Bhd (June 2024 - October 2024)**
