@@ -31,6 +31,7 @@
 **Graphic Designer @ SMK Seri Saujana (Jan 2017 - Dec 2018)**
 - Designed and produced high-quality visuals for the annual school magazine.
 - Managed and curated content for the school magazine, including articles, images, and layout.
+
 ---
 ### Project
 **EEG Band Discovery**
