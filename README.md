@@ -2,7 +2,7 @@
 
 ### Education
 **Bachelor of Computer Science (Software Engineering) @ Universiti Tenaga Nasional (UNITEN) (September 2020 - March 2024)**
-- Dean's List for semester 1 and 2.
+- Dean's List Award for 2 semesters.
 - Part of media team for Programming club and e-sports club tasked to produced visuals for every events going on.
 - Research and develop mobile application for new method to record Archery Performance Automatically with implementation of Computer Vision for Final Year Project.
 
