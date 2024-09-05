@@ -32,9 +32,3 @@
 - Designed and produced high-quality visuals for the annual school magazine.
 - Managed and curated content for the school magazine, including articles, images, and layout.
 
----
-### Project
-**Data Analysis**
-<br>
-1. [Instagram Reach](https://github.com/DanzThing/danzthing.github.io/blob/main/Reach%20Analysis%20(Instagram).ipynb)
-
