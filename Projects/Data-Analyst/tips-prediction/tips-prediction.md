@@ -8,8 +8,8 @@ This study explores using machine learning to predict tips in the service indust
 
 ## Data Exploration and Visualization
 The dataset used in this analysis contains information about tips given at a restaurant, including the total bill, party size, day of the week, time of the day, and the payer's gender and smoking habits. The data is first explored using visualisation
-- **Relationship between Total Bill and Tip:** A scatter plot is used to visualise the relationship between tips and the total bill, revealing a positive correlation. The size of the points represents the party size and the colour represents the day of the week, offering additional insights. The graph suggests that there is a positive correlation between the total bill and the tip amount, with higher bills generally leading higher tips.
-  [](/tips-prediction/assets/img/#)
+- **Relationship between Total Bill and Tip:** A scatter plot is used to visualise the relationship between tips and the total bill, revealing a positive correlation. The size of the points represents the party size and the colour represents the day of the week, offering additional insights. The graph suggests that there is a positive correlation between the total bill and the tip amount, with higher bills generally leading higher tips.<br>
+  ![](/tips-prediction/assets/img/#)
 - **Impact of Gender on Tipping**: Another scatter plot explores the relationship between the total bill and tip, but this time the colour of the points represents the gender of the bill payer. This visualisation helps to understand if there is any difference in tipping behaviour between males and females.
   [Gender vs tipping](Projects/Data-Analyst/tips-prediction/assets/img/total-bil-vs-gender.png)
 - **Distribution of Tips by Day of the Week**: A pie chart illustrates the proportion of total tips received on each day of the week. It reveals that Saturday is the most lucrative day for tips, followed by Sunday, suggesting that people tend to be more generous with tips on weekends.
