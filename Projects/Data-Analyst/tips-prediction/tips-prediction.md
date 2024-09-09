@@ -11,4 +11,4 @@ The dataset used in this analysis contains information about tips given at a res
 - *Relationship between Total Bill and Tip:* A scatter plot is used to visualise the relationship between tips and the total bill, revealing a positive correlation. The size of the points represents the party size and the colour represents the day of the week, offering additional insights. The graph suggests that there is a positive correlation between the total bill and the tip amount, with higher bills generally leading higher tips.
   [](/tips-prediction/assets/img/#)
 - **
-[](/tips-prediction/assets/img/total-bill-vs-gender)
+[](Projects/Data-Analyst/tips-prediction/assets/img/total-bil-vs-gender.png)
