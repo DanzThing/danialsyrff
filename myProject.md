@@ -5,8 +5,8 @@
 2. [Tips Prediction](/Projects/Data-Analyst/tips-prediction/tips-prediction.md)
 <br><br>
 ---
-**Software Development**<br>
---*Under Developement*--<br><br>
+**Software Development**
+--*Under Developement*--
 ---
 **Graphic Design**<br>
 --*Under Development*--<br><br>
