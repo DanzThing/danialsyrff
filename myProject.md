@@ -6,7 +6,7 @@
 <br><br>
 ---
 **Software Development**<br>
---Under Developement--<br><br>
+--*Under Developement*--<br><br>
 ---
 **Graphic Design**<br>
 --*Under Development*--<br><br>
